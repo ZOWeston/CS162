@@ -1,1 +1,1 @@
-#Goodbye!
+print("EVIL GANG")
